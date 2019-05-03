@@ -1,0 +1,26 @@
+2019-05-03 05:41:49,016 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-05-03 05:41:49,025 INFO RPC interface 'supervisor' initialized
+2019-05-03 05:41:49,025 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-05-03 05:41:49,025 INFO supervisord started with pid 1
+2019-05-03 05:41:50,028 INFO spawned: 'dramatiq' with pid 151
+2019-05-03 05:41:50,032 INFO spawned: 'gunicorn' with pid 152
+2019-05-03 05:41:50,036 INFO spawned: 'nginx' with pid 153
+2019-05-03 05:41:56,026 INFO success: dramatiq entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2019-05-03 05:41:56,026 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2019-05-03 05:41:56,026 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2019-05-03 06:19:17,548 WARN received SIGTERM indicating exit request
+2019-05-03 06:19:17,854 INFO waiting for dramatiq, gunicorn, nginx to die
+2019-05-03 06:19:18,690 INFO stopped: nginx (exit status 0)
+2019-05-03 06:19:19,622 INFO stopped: gunicorn (exit status 0)
+2019-05-03 06:19:20,584 INFO waiting for dramatiq to die
+2019-05-03 06:19:22,316 INFO stopped: dramatiq (exit status 0)
+2019-05-03 08:59:00,296 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-05-03 08:59:00,365 INFO RPC interface 'supervisor' initialized
+2019-05-03 08:59:00,365 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-05-03 08:59:00,366 INFO supervisord started with pid 1
+2019-05-03 08:59:01,368 INFO spawned: 'dramatiq' with pid 118
+2019-05-03 08:59:01,371 INFO spawned: 'gunicorn' with pid 119
+2019-05-03 08:59:01,375 INFO spawned: 'nginx' with pid 120
+2019-05-03 08:59:07,319 INFO success: dramatiq entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2019-05-03 08:59:07,319 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2019-05-03 08:59:07,319 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)

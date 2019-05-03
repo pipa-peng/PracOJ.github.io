@@ -1,0 +1,20 @@
+[2019-05-03 05:41:50 +0000] [152] [INFO] Starting gunicorn 19.9.0
+[2019-05-03 05:41:50 +0000] [152] [INFO] Listening at: http://127.0.0.1:8080 (152)
+[2019-05-03 05:41:50 +0000] [152] [INFO] Using worker: threads
+[2019-05-03 05:41:50 +0000] [159] [INFO] Booting worker with pid: 159
+[2019-05-03 05:41:50 +0000] [160] [INFO] Booting worker with pid: 160
+[2019-05-03 05:41:50 +0000] [161] [INFO] Booting worker with pid: 161
+[2019-05-03 05:41:50 +0000] [162] [INFO] Booting worker with pid: 162
+[2019-05-03 06:19:18 +0000] [152] [INFO] Handling signal: term
+[2019-05-03 06:19:19 +0000] [159] [INFO] Worker exiting (pid: 159)
+[2019-05-03 06:19:19 +0000] [160] [INFO] Worker exiting (pid: 160)
+[2019-05-03 06:19:19 +0000] [161] [INFO] Worker exiting (pid: 161)
+[2019-05-03 06:19:19 +0000] [162] [INFO] Worker exiting (pid: 162)
+[2019-05-03 06:19:19 +0000] [152] [INFO] Shutting down: Master
+[2019-05-03 08:59:02 +0000] [119] [INFO] Starting gunicorn 19.9.0
+[2019-05-03 08:59:02 +0000] [119] [INFO] Listening at: http://127.0.0.1:8080 (119)
+[2019-05-03 08:59:02 +0000] [119] [INFO] Using worker: threads
+[2019-05-03 08:59:02 +0000] [136] [INFO] Booting worker with pid: 136
+[2019-05-03 08:59:02 +0000] [137] [INFO] Booting worker with pid: 137
+[2019-05-03 08:59:02 +0000] [138] [INFO] Booting worker with pid: 138
+[2019-05-03 08:59:02 +0000] [139] [INFO] Booting worker with pid: 139
